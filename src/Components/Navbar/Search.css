@@ -1,0 +1,18 @@
+.SearchIcon{
+    color:grey;
+    height:90%;
+}
+.Searchinput{
+    width:450px;
+    height:30px;
+    border-radius: 50px;
+}
+.Searchinput:hover{
+    width:600px;
+    border-radius: 0;
+}
+form{
+    display: flex;
+    padding: 1%;align-items: center;
+    width:572px;
+}
